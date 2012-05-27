@@ -4,5 +4,7 @@
     <string name="hello">Hello World, WhatsMyWeightActivity!</string>
     <string name="app_name">WhatsMyWeight</string>
     <string name="askforWeight">"Please tell me your weight: "</string>
+    <string name="app_version">0.0.1</string>
+    <string name="buttonOk">Ok</string>
 
 </resources>
