@@ -6,5 +6,6 @@
     <string name="askforWeight">"Please tell me your weight: "</string>
     <string name="app_version">0.0.1</string>
     <string name="buttonOk">Ok</string>
+    <string name="buttonHelp">Help</string>
 
 </resources>
